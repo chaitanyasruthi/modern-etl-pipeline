@@ -1,0 +1,8 @@
+pyspark==3.5.1
+pandas
+numpy
+boto3
+sqlalchemy
+psycopg2-binary
+python-dotenv
+streamlit
